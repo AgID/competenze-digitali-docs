@@ -9,7 +9,7 @@ dimensione 3 (livelli di padronanza) e dimensione 5 (esempi di
 utilizzo). Ribadiamo nuovamente che DigComp 2.1 non comprende la
 dimensione 4 (conoscenze, abilità e attitudini).
 
-:ref:`Area delle competenze 1: Alfabetizzazione su informazione e dati <area1>`
+:ref:`Area delle competenze 1: Alfabetizzazione su informazioni e dati <area1>`
 
 :ref:`Area delle competenze 2: Collaborazione e comunicazione <area2>`
 
@@ -23,7 +23,7 @@ dimensione 4 (conoscenze, abilità e attitudini).
 
 
 ----------------------------------------------------------------
-Area delle competenze 1: Alfabetizzazione su informazione e dati
+Area delle competenze 1: Alfabetizzazione su informazioni e dati
 ----------------------------------------------------------------
 
 1.1 Navigare, ricercare e filtrare dati, informazioni e contenuti digitali
